@@ -44,7 +44,7 @@ test {
 @org.junit.jupiter.api.Test
 public void testConcat_validArgument_success() {
   // given:
-  ...
+  ..
 
   // when:
   ...    
